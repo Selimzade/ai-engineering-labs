@@ -1,0 +1,566 @@
+[
+  {
+    "number": "1.1",
+    "title": "Tariximiz",
+    "chapter": "1. Şirkət haqqında",
+    "text": "1. Şirkət haqqında > 1.1 Tariximiz\nAraz Bulud MMC 2017-ci ilin mart ayında Bakıda üç mühəndis — Kamran Əlizadə, Leyla Hüseynova və Tural Məmmədli tərəfindən təsis edilib. Təsisçilər əvvəllər eyni telekommunikasiya şirkətində işləyirdilər və yerli şirkətlərin məlumatlarını ölkə daxilində, etibarlı və sərfəli şəkildə saxlaya bilməsi üçün bulud xidməti qurmaq qərarına gəldilər. İlk məhsulumuz olan «Araz Anbar» 2018-ci ilin oktyabrında istifadəyə verildi. 2019-cu ilin sonuna qədər ilk on korporativ müştərimizlə müqavilə bağladıq. 2020-ci ildə ikinci məhsulumuz «Araz Axın», 2023-cü ildə isə üçüncü məhsulumuz «Araz Qalxan» bazara çıxdı. 2021-ci ilin iyun ayında Gəncədə ikinci ofisimizi açdıq. Bu bələdçinin hazırlandığı tarixdə şirkətdə 240 əməkdaş çalışır. Onlardan 150 nəfəri mühəndislik bölməsində, 35 nəfəri Gəncə ofisində işləyir."
+  },
+  {
+    "number": "1.2",
+    "title": "Məhsullarımız",
+    "chapter": "1. Şirkət haqqında",
+    "text": "1. Şirkət haqqında > 1.2 Məhsullarımız\nŞirkətin üç əsas məhsulu var:  «Araz Anbar» — obyekt əsaslı məlumat saxlama xidməti. Müştərilər faylları, ehtiyat nüsxələri və arxivləri burada saxlayır.  «Araz Axın» — real vaxt rejimində məlumat axınlarının emalı üçün platforma. Əsasən bank və pərakəndə satış sektorundakı müştərilər istifadə edir.  «Araz Qalxan» — bulud infrastrukturunun təhlükəsizlik monitorinqi xidməti. Şübhəli fəaliyyəti aşkarlayır və müştərini xəbərdar edir."
+  },
+  {
+    "number": "1.3",
+    "title": "Dəyərlərimiz",
+    "chapter": "1. Şirkət haqqında",
+    "text": "1. Şirkət haqqında > 1.3 Dəyərlərimiz\nGündəlik qərarlarımızda dörd dəyərə əsaslanırıq: şəffaflıq, məsuliyyət, sadəlik və davamlı öyrənmə. Şəffaflıq o deməkdir ki, qərarların səbəbi hamıya açıq izah olunur. Məsuliyyət — başladığın işi sona çatdırmaq və səhvi gizlətməməkdir. Sadəlik — mürəkkəb həll əvəzinə başa düşülən həlli seçməkdir. Davamlı öyrənmə isə hər bir əməkdaşın öz biliyini artırmaq üçün vaxt və büdcə ilə təmin olunması deməkdir."
+  },
+  {
+    "number": "1.4",
+    "title": "Ofislərimiz",
+    "chapter": "1. Şirkət haqqında",
+    "text": "1. Şirkət haqqında > 1.4 Ofislərimiz\nBaş ofis Bakı şəhəri, Nərimanov rayonunda yerləşən «Çinar Plaza» biznes mərkəzinin 9-cu və 10-cu mərtəbələrindədir. 9-cu mərtəbədə mühəndislik komandaları, 10-cu mərtəbədə isə satış, maliyyə, kadrlar şöbəsi və iclas otaqları yerləşir. Qəbul masası iş günləri saat 09:00-dan 19:00-dək işləyir. Gəncə ofisində əsasən müştəri dəstəyi komandası çalışır. Bu komanda növbə qrafiki ilə həftənin yeddi günü xidmət göstərir."
+  },
+  {
+    "number": "1.5",
+    "title": "Bu bələdçi haqqında",
+    "chapter": "1. Şirkət haqqında",
+    "text": "1. Şirkət haqqında > 1.5 Bu bələdçi haqqında\nƏməkdaş Bələdçisi kadrlar şöbəsi tərəfindən hazırlanır və ildə iki dəfə — mart və sentyabr aylarında yenilənir. Hazırkı versiya 4.2-dir və 1 sentyabr 2026-cı il tarixindən qüvvədədir. Bələdçi ilə əmək müqaviləsi arasında ziddiyyət yaranarsa, əmək müqaviləsinin müddəaları üstün sayılır. Bələdçidə cavabını tapmadığınız suallar üçün kadrlar şöbəsinə müraciət edin (bax: Bölmə 15)."
+  },
+  {
+    "number": "2.1",
+    "title": "İlk iş günü",
+    "chapter": "2. İşə qəbul və sınaq müddəti",
+    "text": "2. İşə qəbul və sınaq müddəti > 2.1 İlk iş günü\nİlk iş günündə saat 10:00-da baş ofisin qəbul masasına gəlməyiniz xahiş olunur. Sizi kadrlar şöbəsinin nümayəndəsi qarşılayır, giriş kartınızı və noutbukunuzu təqdim edir. E-poçt, Slack və Kadr Portalı hesablarınız ilk gün ərzində aktivləşdirilir. Günün ikinci yarısında komandanızla tanış olur və rəhbərinizlə ilk görüşünüzü keçirirsiniz. Hər yeni əməkdaşa komandasından bir «bələdçi yoldaş» təyin olunur. Bələdçi yoldaş sizin rəhbəriniz deyil; onun vəzifəsi ilk üç ay ərzində gündəlik suallarınıza cavab vermək və şirkət mədəniyyətinə uyğunlaşmağınıza kömək etməkdir."
+  },
+  {
+    "number": "2.2",
+    "title": "Sınaq müddəti",
+    "chapter": "2. İşə qəbul və sınaq müddəti",
+    "text": "2. İşə qəbul və sınaq müddəti > 2.2 Sınaq müddəti\nBütün daimi vəzifələr üçün sınaq müddəti 3 aydır. Təcrübəçilər (L1 səviyyəsi) üçün sınaq müddəti 1 aydır. Sınaq müddətində əmək müqaviləsinə tərəflərdən hər biri 3 gün əvvəl yazılı xəbərdarlıq etməklə xitam verə bilər."
+  },
+  {
+    "number": "2.3",
+    "title": "30-60-90 planı",
+    "chapter": "2. İşə qəbul və sınaq müddəti",
+    "text": "2. İşə qəbul və sınaq müddəti > 2.3 30-60-90 planı\nRəhbəriniz ilk həftə ərzində sizinlə birlikdə 30-60-90 günlük plan tərtib edir:  İlk 30 gün: məhsulu, kod bazasını və prosesləri öyrənmək. Bu dövrdə sizdən müstəqil nəticə gözlənilmir.  60-cı günə qədər: ilk müstəqil tapşırığı başa çatdırmaq.  90-cı günə qədər: komandanın adi iş yükünü tam şəkildə daşımaq. Rəhbərinizlə rəsmi yoxlama görüşləri 30-cu, 60-cı və 85-ci günlərdə keçirilir. Sınaq müddətinin nəticəsi barədə qərar 85-ci gün görüşündə sizə elan olunur."
+  },
+  {
+    "number": "2.4",
+    "title": "Məcburi təlimlər",
+    "chapter": "2. İşə qəbul və sınaq müddəti",
+    "text": "2. İşə qəbul və sınaq müddəti > 2.4 Məcburi təlimlər\nYeni əməkdaşlar aşağıdakı təlimləri vaxtında tamamlamalıdır:  İnformasiya təhlükəsizliyi təlimi — ilk 10 iş günü ərzində. Təlim 45 dəqiqəlik onlayn kursdan və testdən ibarətdir, keçid balı 80 faizdir.  Əmək təhlükəsizliyi təlimi — ilk 30 gün ərzində.  Davranış qaydalarının oxunub imzalanması — ilk 5 iş günü ərzində. İnformasiya təhlükəsizliyi təlimini vaxtında keçməyən əməkdaşın istehsalat (production) sistemlərinə girişi açılmır."
+  },
+  {
+    "number": "2.5",
+    "title": "Sınaq müddətində fərqli olan qaydalar",
+    "chapter": "2. İşə qəbul və sınaq müddəti",
+    "text": "2. İşə qəbul və sınaq müddəti > 2.5 Sınaq müddətində fərqli olan qaydalar\nSınaq müddətində bəzi imkanlar hələ aktiv olmur:  Tibbi sığorta sınaq müddəti bitdikdən sonra başlayır (bax: 6.1).  Fərdi təhsil büdcəsindən və ev ofisi dəstəyindən sınaq müddətindən sonra istifadə etmək olar (bax: 11.1 və 7.4).  Sınaq müddətində olan əməkdaşlar növbətçilik qrafikinə daxil edilmir (bax: 9.4) və illik bonus almır (bax: 4.3).  İlk ay ərzində əməkdaşın hər iş günü ofisdə olması gözlənilir; hibrid iş rejimi ikinci aydan başlayır."
+  },
+  {
+    "number": "3.1",
+    "title": "İş həftəsi",
+    "chapter": "3. İş vaxtı və hibrid iş",
+    "text": "3. İş vaxtı və hibrid iş > 3.1 İş həftəsi\nStandart iş həftəsi bazar ertəsindən cüməyədək 40 saatdır. İş gününə saat 08:00 ilə 11:00 arasında istənilən vaxt başlaya bilərsiniz. Saat 11:00-dan 16:00-dək olan müddət «əsas saatlar» adlanır: bu vaxt bütün əməkdaşlar əlçatan olmalı və görüşlərdə iştirak edə bilməlidir. Nahar fasiləsi 1 saatdır və iş vaxtına daxil deyil."
+  },
+  {
+    "number": "3.2",
+    "title": "Hibrid model",
+    "chapter": "3. İş vaxtı və hibrid iş",
+    "text": "3. İş vaxtı və hibrid iş > 3.2 Hibrid model\nƏməkdaşlar həftədə ən azı 2 gün ofisdən işləməlidir. Çərşənbə günü bütün şirkət üçün ümumi ofis günüdür. İkinci ofis gününü hər komanda özü seçir və buna komandanın «lövbər günü» deyilir. Qalan günlərdə evdən işləmək olar. Müştəri dəstəyi komandası bu qaydadan istisnadır və növbə qrafiki əsasında işləyir."
+  },
+  {
+    "number": "3.3",
+    "title": "Tam uzaqdan iş",
+    "chapter": "3. İş vaxtı və hibrid iş",
+    "text": "3. İş vaxtı və hibrid iş > 3.3 Tam uzaqdan iş\nTam uzaqdan iş rejiminə yalnız bölmə direktorunun yazılı təsdiqi ilə icazə verilir. Belə razılaşmalara ildə bir dəfə, yanvar ayında yenidən baxılır. Tam uzaqdan işləyən əməkdaşlar rübdə ən azı bir dəfə baş ofisə gəlməlidir; yol xərclərini şirkət ödəyir."
+  },
+  {
+    "number": "3.4",
+    "title": "Xaricdən işləmə",
+    "chapter": "3. İş vaxtı və hibrid iş",
+    "text": "3. İş vaxtı və hibrid iş > 3.4 Xaricdən işləmə\nƏməkdaş bir təqvim ili ərzində ən çoxu 30 gün xaricdən işləyə bilər. Ardıcıl müddət 15 gündən çox olmamalıdır. Bunun üçün səfərdən ən azı 10 iş günü əvvəl rəhbərə və İT təhlükəsizlik komandasına məlumat verilməlidir. Xaricdən işləyərkən şirkətin VPN xidmətindən istifadə məcburidir. İşləməyə icazə verilməyən ölkələrin siyahısı İT təhlükəsizlik komandasında saxlanılır və səfərdən əvvəl yoxlanılmalıdır."
+  },
+  {
+    "number": "3.5",
+    "title": "İş vaxtından artıq iş",
+    "chapter": "3. İş vaxtı və hibrid iş",
+    "text": "3. İş vaxtı və hibrid iş > 3.5 İş vaxtından artıq iş\nİş vaxtından artıq işə yalnız rəhbərin əvvəlcədən verdiyi yazılı razılıq əsasında yol verilir. Artıq işlənmiş saatlar əməkdaşın seçimi ilə ya ikiqat məbləğdə ödənilir, ya da eyni müddətdə əlavə istirahət vaxtı ilə əvəz olunur. Bir ay ərzində artıq iş 20 saatdan çox ola bilməz."
+  },
+  {
+    "number": "3.6",
+    "title": "Görüş qaydaları",
+    "chapter": "3. İş vaxtı və hibrid iş",
+    "text": "3. İş vaxtı və hibrid iş > 3.6 Görüş qaydaları\nGörüşlər 25 və ya 50 dəqiqəlik təyin olunur ki, ardıcıl görüşlər arasında fasilə qalsın. Hər görüşün gündəliyi dəvətdə yazılmalıdır; gündəliyi olmayan görüşdən imtina etmək olar. Cümə günləri saat 13:00-dan sonra daxili görüş təyin edilmir. Bu qayda «görüşsüz cümə» adlanır və diqqət tələb edən işlərə, eləcə də Öyrənmə saatına (bax: 11.4) vaxt ayırmaq üçündür."
+  },
+  {
+    "number": "4.1",
+    "title": "Ödəniş tarixləri",
+    "chapter": "4. Əmək haqqı və bonuslar",
+    "text": "4. Əmək haqqı və bonuslar > 4.1 Ödəniş tarixləri\nƏmək haqqı ayda iki dəfə bank kartına köçürülür. Avans hər ayın 20-də ödənilir və aylıq əmək haqqının 40 faizini təşkil edir. Yekun hesablaşma növbəti ayın 5-də aparılır. Ödəniş günü qeyri-iş gününə düşərsə, köçürmə ondan əvvəlki son iş günü edilir. Əmək haqqı vərəqəsi hər ay Kadr Portalında yerləşdirilir."
+  },
+  {
+    "number": "4.2",
+    "title": "İllik əmək haqqı baxışı",
+    "chapter": "4. Əmək haqqı və bonuslar",
+    "text": "4. Əmək haqqı və bonuslar > 4.2 İllik əmək haqqı baxışı\nƏmək haqlarına ildə bir dəfə, aprel ayında baxılır. Təsdiqlənmiş dəyişikliklər 1 may tarixindən qüvvəyə minir. Baxışda iştirak etmək üçün əməkdaş əvvəlki ilin 1 oktyabr tarixindən gec olmayaraq işə başlamış olmalıdır. Baxış zamanı əməkdaşın performans qiyməti, səviyyəsi üzrə əmək haqqı diapazonu və bazar məlumatları nəzərə alınır."
+  },
+  {
+    "number": "4.3",
+    "title": "İllik bonus",
+    "chapter": "4. Əmək haqqı və bonuslar",
+    "text": "4. Əmək haqqı və bonuslar > 4.3 İllik bonus\nİllik performans bonusu dekabr ayının əmək haqqı ilə birlikdə ödənilir. Bonusun hədəf məbləği bir aylıq əmək haqqıdır. Faktiki məbləğ hədəf məbləğin fərdi əmsala vurulması ilə hesablanır; əmsal sentyabr dövrünün performans qiymətinə əsasən müəyyən olunur (bax: 10.2). İl ərzində işə başlamış əməkdaşlara bonus işlədikləri aylara mütənasib hesablanır. Bonusun ödənildiyi tarixdə sınaq müddətində olan əməkdaşlar bonus almır. Bonus yalnız 1 dekabr tarixində şirkətdə işləyən əməkdaşlara ödənilir."
+  },
+  {
+    "number": "4.4",
+    "title": "Tövsiyə bonusu",
+    "chapter": "4. Əmək haqqı və bonuslar",
+    "text": "4. Əmək haqqı və bonuslar > 4.4 Tövsiyə bonusu\nTövsiyə etdiyiniz namizəd işə qəbul olunub sınaq müddətini uğurla başa vurarsa, sizə 1500 AZN tövsiyə bonusu ödənilir. L5 və daha yuxarı səviyyəli vəzifələr üçün bu məbləğ 2500 AZN-dir. Kadrlar şöbəsinin əməkdaşları və həmin vakansiya üzrə işə qəbul qərarını verən rəhbərlər tövsiyə bonusu ala bilməz."
+  },
+  {
+    "number": "4.5",
+    "title": "Növbətçilik ödənişi",
+    "chapter": "4. Əmək haqqı və bonuslar",
+    "text": "4. Əmək haqqı və bonuslar > 4.5 Növbətçilik ödənişi\nNövbətçilik (on-call) üçün əlavə ödəniş qaydaları 9.4 bəndində təsvir olunub."
+  },
+  {
+    "number": "4.6",
+    "title": "Əmək haqqının məxfiliyi",
+    "chapter": "4. Əmək haqqı və bonuslar",
+    "text": "4. Əmək haqqı və bonuslar > 4.6 Əmək haqqının məxfiliyi\nHər bir əməkdaşın fərdi əmək haqqı məxfi məlumatdır və yalnız əməkdaşın özü, rəhbəri və kadrlar şöbəsi tərəfindən görünür. Bununla belə, hər səviyyə üzrə əmək haqqı diapazonları Kadr Portalında bütün əməkdaşlar üçün açıqdır. Əməkdaşlar öz əmək haqlarını həmkarları ilə müzakirə etməkdə sərbəstdirlər."
+  },
+  {
+    "number": "5.1",
+    "title": "Əsas məzuniyyət",
+    "chapter": "5. Məzuniyyət və istirahət",
+    "text": "5. Məzuniyyət və istirahət > 5.1 Əsas məzuniyyət\nHər bir əməkdaşın ildə 21 iş günü ödənişli əsas məzuniyyət hüququ var. Şirkətdə işlənmiş hər tam 2 il üçün əlavə 1 gün verilir; ümumi müddət 26 iş günündən çox ola bilməz. Məzuniyyət günləri ilk iş günündən hesablanmağa başlayır, lakin ilk dəfə 6 ay işlədikdən sonra istifadə oluna bilər."
+  },
+  {
+    "number": "5.2",
+    "title": "Müraciət qaydası",
+    "chapter": "5. Məzuniyyət və istirahət",
+    "text": "5. Məzuniyyət və istirahət > 5.2 Müraciət qaydası\nMəzuniyyət müraciəti Kadr Portalı vasitəsilə edilir. 5 iş günündən qısa məzuniyyət üçün müraciət ən azı 3 iş günü, 5 iş günü və daha uzun məzuniyyət üçün isə ən azı 10 iş günü əvvəl göndərilməlidir. Rəhbər müraciətə 2 iş günü ərzində cavab verməlidir. Bu müddətdə cavab verilməzsə, müraciət avtomatik olaraq bölmə direktoruna yönləndirilir."
+  },
+  {
+    "number": "5.3",
+    "title": "İstifadə olunmamış günlər",
+    "chapter": "5. Məzuniyyət və istirahət",
+    "text": "5. Məzuniyyət və istirahət > 5.3 İstifadə olunmamış günlər\nİl ərzində istifadə olunmamış məzuniyyət günlərindən ən çoxu 7 gün növbəti ilə keçirilə bilər. Keçirilmiş günlər növbəti ilin 31 mart tarixinədək istifadə olunmalıdır, əks halda ləğv edilir."
+  },
+  {
+    "number": "5.4",
+    "title": "Xəstəlik",
+    "chapter": "5. Məzuniyyət və istirahət",
+    "text": "5. Məzuniyyət və istirahət > 5.4 Xəstəlik\nXəstələndiyiniz gün saat 10:00-a qədər rəhbərinizə xəbər verməlisiniz. Hər əməkdaşın ildə 5 gün arayış tələb olunmayan, tam ödənişli xəstəlik günü var. Xəstəlik ardıcıl 3 gündən çox davam edərsə, həkim tərəfindən verilmiş xəstəlik vərəqəsi təqdim olunmalıdır."
+  },
+  {
+    "number": "5.5",
+    "title": "Xüsusi günlər",
+    "chapter": "5. Məzuniyyət və istirahət",
+    "text": "5. Məzuniyyət və istirahət > 5.5 Xüsusi günlər\nƏsas məzuniyyətdən əlavə aşağıdakı ödənişli günlər verilir:  Ad günü — 1 gün. Ad günündən sonrakı 30 gün ərzində istifadə olunmalıdır.  Nikah — 3 iş günü.  Uşağın doğulması (ata üçün) — 14 təqvim günü.  Yaxın qohumun vəfatı — 3 iş günü.  Yeni mənzilə köçmə — 1 gün, ildə bir dəfə.  Könüllülük fəaliyyəti — ildə 2 gün. Analıq məzuniyyəti qüvvədə olan qanunvericiliyə uyğun verilir; şirkət bu müddətdə dövlət müavinəti ilə əməkdaşın orta əmək haqqı arasındakı fərqi ödəyir."
+  },
+  {
+    "number": "5.6",
+    "title": "Ödənişsiz məzuniyyət",
+    "chapter": "5. Məzuniyyət və istirahət",
+    "text": "5. Məzuniyyət və istirahət > 5.6 Ödənişsiz məzuniyyət\nİldə 14 təqvim gününə qədər ödənişsiz məzuniyyət rəhbərin razılığı ilə verilir. Daha uzun müddət üçün kadrlar üzrə direktorun təsdiqi tələb olunur."
+  },
+  {
+    "number": "6.1",
+    "title": "Tibbi sığorta",
+    "chapter": "6. Sosial paket və güzəştlər",
+    "text": "6. Sosial paket və güzəştlər > 6.1 Tibbi sığorta\nTibbi sığorta sınaq müddətinin bitməsindən sonrakı ayın 1-dən qüvvəyə minir. Əməkdaşın sığorta haqqını şirkət tam ödəyir. Əməkdaş həyat yoldaşını və uşaqlarını da sığortaya əlavə edə bilər; bu halda ailə üzvlərinin sığorta haqqının 50 faizini şirkət, qalan hissəsini əməkdaş ödəyir. Stomatoloji xidmətlər üçün illik limit 400 AZN-dir. Sığorta tərəfdaşımız «Sağlam Həyat Sığorta» şirkətidir."
+  },
+  {
+    "number": "6.2",
+    "title": "İdman kompensasiyası",
+    "chapter": "6. Sosial paket və güzəştlər",
+    "text": "6. Sosial paket və güzəştlər > 6.2 İdman kompensasiyası\nİdman zalı, hovuz və ya idman bölməsi üçün xərclər ayda 80 AZN-ə qədər kompensasiya olunur. Ödəniş qəbz əsasında, rübdə bir dəfə aparılır. Qəbzlər rüb bitdikdən sonra 15 gün ərzində Kadr Portalına yüklənməlidir."
+  },
+  {
+    "number": "6.3",
+    "title": "Nahar",
+    "chapter": "6. Sosial paket və güzəştlər",
+    "text": "6. Sosial paket və güzəştlər > 6.3 Nahar\nOfisdən işlədiyiniz hər gün üçün 12 AZN nahar kompensasiyası hesablanır. Məbləğ əvvəlki ayın ofis günlərinin sayına əsasən hər ayın 1-də yemək kartınıza yüklənir. Evdən işlədiyiniz günlər üçün nahar kompensasiyası verilmir."
+  },
+  {
+    "number": "6.4",
+    "title": "Nəqliyyat və dayanacaq",
+    "chapter": "6. Sosial paket və güzəştlər",
+    "text": "6. Sosial paket və güzəştlər > 6.4 Nəqliyyat və dayanacaq\nİş səbəbi ilə ofisi saat 21:00-dan sonra tərk edən əməkdaşın taksi xərcini şirkət ödəyir. Binanın yeraltı dayanacağında şirkət üçün 40 yer ayrılıb; onlardan 6-sı elektrik avtomobillərinin şarjı üçündür. Dayanacaq yerləri sabit bölüşdürülmür, Kadr Portalında gündəlik sifariş olunur."
+  },
+  {
+    "number": "6.5",
+    "title": "Psixoloji dəstək",
+    "chapter": "6. Sosial paket və güzəştlər",
+    "text": "6. Sosial paket və güzəştlər > 6.5 Psixoloji dəstək\nHər əməkdaş ildə 8 pulsuz psixoloq seansından istifadə edə bilər. Xidmət kənar tərəfdaş vasitəsilə göstərilir və tam anonimdir: şirkətə yalnız istifadə olunan seansların ümumi sayı bildirilir."
+  },
+  {
+    "number": "6.6",
+    "title": "Digər imkanlar",
+    "chapter": "6. Sosial paket və güzəştlər",
+    "text": "6. Sosial paket və güzəştlər > 6.6 Digər imkanlar\nEv ofisi dəstəyi 7.4 bəndində, təhsil büdcəsi və təlim imkanları isə Bölmə 11-də təsvir olunub."
+  },
+  {
+    "number": "6.7",
+    "title": "Ofis imkanları",
+    "chapter": "6. Sosial paket və güzəştlər",
+    "text": "6. Sosial paket və güzəştlər > 6.7 Ofis imkanları\nHər iki mərtəbədə mətbəx, pulsuz çay, qəhvə və meyvə var. 9-cu mərtəbədə telefon danışıqları üçün dörd sakit otaq, 10-cu mərtəbədə isə istirahət və oyun otağı yerləşir. Ev heyvanlarını ofisə yalnız cümə günləri və komanda yoldaşlarının razılığı ilə gətirmək olar."
+  },
+  {
+    "number": "7.1",
+    "title": "Noutbuk",
+    "chapter": "7. Avadanlıq və İT dəstəyi",
+    "text": "7. Avadanlıq və İT dəstəyi > 7.1 Noutbuk\nYeni əməkdaş iki modeldən birini seçə bilər: MacBook Pro 14 və ya Lenovo ThinkPad X1 Carbon. Mühəndislik bölməsinin əməkdaşlarına 32 GB, digər əməkdaşlara 16 GB operativ yaddaşı olan cihaz verilir. Noutbuklar 3 ildən bir yenilənir. Köhnə cihazı əməkdaş qalıq dəyəri ilə satın ala bilər."
+  },
+  {
+    "number": "7.2",
+    "title": "Əlavə avadanlıq",
+    "chapter": "7. Avadanlıq və İT dəstəyi",
+    "text": "7. Avadanlıq və İT dəstəyi > 7.2 Əlavə avadanlıq\nMonitor, klaviatura, siçan və qulaqlıq kimi əlavə avadanlıq üçün hər əməkdaşa 500 AZN limit ayrılır. Sifariş İT şöbəsinin Avadanlıq Kataloqundan verilir. Kataloqda olmayan avadanlıq üçün İT şöbəsinin rəhbərinin razılığı lazımdır."
+  },
+  {
+    "number": "7.3",
+    "title": "Mobil rabitə",
+    "chapter": "7. Avadanlıq və İT dəstəyi",
+    "text": "7. Avadanlıq və İT dəstəyi > 7.3 Mobil rabitə\nMüştərilərlə birbaşa işləyən vəzifələrdə (satış, müştəri dəstəyi, layihə rəhbərliyi) çalışan əməkdaşlara mobil rabitə xərcləri üçün ayda 30 AZN kompensasiya ödənilir."
+  },
+  {
+    "number": "7.4",
+    "title": "Ev ofisi dəstəyi",
+    "chapter": "7. Avadanlıq və İT dəstəyi",
+    "text": "7. Avadanlıq və İT dəstəyi > 7.4 Ev ofisi dəstəyi\nSınaq müddətini başa vurmuş əməkdaşlar ev iş yerini qurmaq üçün birdəfəlik 600 AZN dəstək ala bilər. Bu məbləğ iş masası və stul kimi mebel üçündür və 3 ildə bir dəfə verilir. Bundan əlavə, evdən işləyən əməkdaşlara internet xərcləri üçün ayda 25 AZN ödənilir."
+  },
+  {
+    "number": "7.5",
+    "title": "Cihazın itməsi və ya oğurlanması",
+    "chapter": "7. Avadanlıq və İT dəstəyi",
+    "text": "7. Avadanlıq və İT dəstəyi > 7.5 Cihazın itməsi və ya oğurlanması\nŞirkət cihazı itərsə və ya oğurlanarsa, bu barədə 2 saat ərzində İT təhlükəsizlik komandasına xəbər verilməlidir ki, cihaz uzaqdan kilidlənsin. Oğurluq halında 24 saat ərzində polisə müraciət edilməli və müraciətin surəti İT şöbəsinə təqdim olunmalıdır. Vaxtında xəbər verən əməkdaş maddi məsuliyyət daşımır. Bir il ərzində səhlənkarlıq üzündən ikinci dəfə cihaz itirən əməkdaş cihazın qalıq dəyərinin 30 faizini ödəyir."
+  },
+  {
+    "number": "7.6",
+    "title": "İT dəstək xidməti",
+    "chapter": "7. Avadanlıq və İT dəstəyi",
+    "text": "7. Avadanlıq və İT dəstəyi > 7.6 İT dəstək xidməti\nİT dəstək xidməti iş günləri saat 09:00-dan 19:00-dək işləyir. Müraciət üçün Slack-də #it-komek kanalından və ya 1100 daxili nömrəsindən istifadə edin. Kritik sorğulara (məsələn, işə başlamağa mane olan nasazlıq) 30 dəqiqə ərzində, standart sorğulara isə 1 iş günü ərzində cavab verilir."
+  },
+  {
+    "number": "7.7",
+    "title": "Proqram təminatı",
+    "chapter": "7. Avadanlıq və İT dəstəyi",
+    "text": "7. Avadanlıq və İT dəstəyi > 7.7 Proqram təminatı\nŞirkət cihazlarına yalnız təsdiqlənmiş siyahıda olan proqramları quraşdırmaq olar. Siyahıda olmayan proqram üçün İT şöbəsinə sorğu göndərilir; sorğuya 3 iş günü ərzində baxılır. Şirkətin mənbə kodunu şəxsi cihazlarda saxlamaq qadağandır."
+  },
+  {
+    "number": "8.1",
+    "title": "Parollar və iki faktorlu giriş",
+    "chapter": "8. İnformasiya təhlükəsizliyi",
+    "text": "8. İnformasiya təhlükəsizliyi > 8.1 Parollar və iki faktorlu giriş\nParol ən azı 14 simvoldan ibarət olmalıdır. Bütün əməkdaşlar şirkətin təqdim etdiyi korporativ parol menecerindən istifadə etməlidir; eyni parolu bir neçə sistemdə işlətmək qadağandır. Parolun müəyyən müddətdən bir dəyişdirilməsi tələb olunmur — parol yalnız sızma şübhəsi olduqda dərhal dəyişdirilməlidir. Bütün şirkət sistemlərində iki faktorlu giriş məcburidir. SMS ilə təsdiq qəbul olunmur; yalnız autentifikasiya tətbiqi və ya fiziki təhlükəsizlik açarı istifadə edilə bilər. İstehsalat (production) sistemlərinə giriş üçün fiziki təhlükəsizlik açarı məcburidir."
+  },
+  {
+    "number": "8.2",
+    "title": "Məlumatların təsnifatı",
+    "chapter": "8. İnformasiya təhlükəsizliyi",
+    "text": "8. İnformasiya təhlükəsizliyi > 8.2 Məlumatların təsnifatı\nŞirkətdə məlumat dörd səviyyəyə bölünür:  Açıq — ictimaiyyətə açıqlana bilən məlumat (məsələn, veb-saytdakı mətnlər).  Daxili — bütün əməkdaşlar üçün əlçatan, lakin kənara verilməyən məlumat (məsələn, bu bələdçi).  Məxfi — yalnız aidiyyəti komandaların görə biləcəyi məlumat (məsələn, maliyyə hesabatları, mənbə kodu).  Ciddi məxfi — yalnız adbaad icazə verilmiş şəxslərin görə biləcəyi məlumat. Müştəri məlumatları həmişə «Ciddi məxfi» səviyyəsinə aiddir. Ciddi məxfi məlumat yalnız şirkət cihazlarında emal oluna bilər; onu şəxsi e-poçta və ya şəxsi bulud yaddaşına göndərmək qadağandır."
+  },
+  {
+    "number": "8.3",
+    "title": "Süni intellekt alətlərindən istifadə",
+    "chapter": "8. İnformasiya təhlükəsizliyi",
+    "text": "8. İnformasiya təhlükəsizliyi > 8.3 Süni intellekt alətlərindən istifadə\nMəxfi və Ciddi məxfi səviyyəli məlumatı şirkət tərəfindən təsdiqlənməmiş xarici süni intellekt xidmətlərinə daxil etmək qadağandır. Təsdiqlənmiş alətlərin siyahısı İT təhlükəsizlik komandası tərəfindən aparılır və Kadr Portalında dərc olunur. Kod yazmağa kömək edən süni intellekt alətlərindən yalnız şirkətin korporativ lisenziyası ilə istifadə etmək olar. Süni intellektin yaratdığı kod da adi kod kimi baxışdan keçməlidir (bax: 9.1)."
+  },
+  {
+    "number": "8.4",
+    "title": "İnsidentlərin bildirilməsi",
+    "chapter": "8. İnformasiya təhlükəsizliyi",
+    "text": "8. İnformasiya təhlükəsizliyi > 8.4 İnsidentlərin bildirilməsi\nTəhlükəsizliklə bağlı hər hansı şübhəli hadisə aşkar edildikdən sonra 1 saat ərzində bildirilməlidir. Bunun üçün security@arazbulud.example ünvanına yazın və ya Slack-də #tehlukesizlik-xeber kanalından istifadə edin. Şübhəli e-poçt məktubları üçün poçt proqramındakı «Şübhəli məktub» düyməsini sıxmaq kifayətdir. Hadisəni vaxtında bildirən əməkdaşa, səhv onun özünə məxsus olsa belə, intizam tədbiri tətbiq edilmir."
+  },
+  {
+    "number": "8.5",
+    "title": "Fişinq testləri",
+    "chapter": "8. İnformasiya təhlükəsizliyi",
+    "text": "8. İnformasiya təhlükəsizliyi > 8.5 Fişinq testləri\nİT təhlükəsizlik komandası rübdə bir dəfə bütün əməkdaşlara sınaq fişinq məktubları göndərir. Ardıcıl iki testdə saxta keçidə daxil olan əməkdaş 30 dəqiqəlik əlavə təlim keçməlidir."
+  },
+  {
+    "number": "8.6",
+    "title": "İş yerində təhlükəsizlik",
+    "chapter": "8. İnformasiya təhlükəsizliyi",
+    "text": "8. İnformasiya təhlükəsizliyi > 8.6 İş yerində təhlükəsizlik\nKompüter ekranı 5 dəqiqə fəaliyyətsizlikdən sonra avtomatik kilidlənir; iş yerini tərk edərkən ekranı əl ilə kilidləmək lazımdır. Qonaqlar ofisə yalnız qonaq kartı ilə və onları dəvət edən əməkdaşın müşayiəti ilə daxil ola bilər. Məxfi sənədləri masanın üstündə və ya lövhədə yazılı vəziyyətdə saxlamaq olmaz."
+  },
+  {
+    "number": "8.7",
+    "title": "İllik təlim",
+    "chapter": "8. İnformasiya təhlükəsizliyi",
+    "text": "8. İnformasiya təhlükəsizliyi > 8.7 İllik təlim\nİlk işə qəbul təlimindən (bax: 2.4) əlavə, bütün əməkdaşlar hər il noyabr ayında informasiya təhlükəsizliyi üzrə təkrar təlim keçir. Keçid balı 80 faizdir."
+  },
+  {
+    "number": "9.1",
+    "title": "Kod baxışı",
+    "chapter": "9. Mühəndislik prosesləri",
+    "text": "9. Mühəndislik prosesləri > 9.1 Kod baxışı\nƏsas budağa birləşdirilən hər bir dəyişiklik ən azı 2 mühəndis tərəfindən təsdiqlənməlidir; onlardan biri həmin kod sahəsinin sahibi (code owner) olmalıdır. 400 sətirdən böyük dəyişiklik sorğuları daha kiçik hissələrə bölünməlidir. Baxış sorğusuna ilk cavab 1 iş günü ərzində verilməlidir."
+  },
+  {
+    "number": "9.2",
+    "title": "Buraxılış qaydaları",
+    "chapter": "9. Mühəndislik prosesləri",
+    "text": "9. Mühəndislik prosesləri > 9.2 Buraxılış qaydaları\nİstehsalat mühitinə buraxılış (deploy) bazar ertəsindən cümə axşamınadək, saat 10:00 ilə 16:00 arasında aparılır. Cümə günləri və bayram qabağı günlərdə buraxılış edilmir. Yeganə istisna SEV1 və SEV2 səviyyəli insidentlərin düzəlişləridir; belə hallarda növbətçi rəhbərin təsdiqi tələb olunur. Hər il 25 dekabrdan 5 yanvaradək «dondurma dövrü» elan olunur: bu müddətdə yalnız təcili düzəlişlər buraxıla bilər."
+  },
+  {
+    "number": "9.3",
+    "title": "İnsident səviyyələri",
+    "chapter": "9. Mühəndislik prosesləri",
+    "text": "9. Mühəndislik prosesləri > 9.3 İnsident səviyyələri\nİnsidentlər təsirinə görə dörd səviyyəyə bölünür: Səviyyə Təsvir İlk reaksiya müddəti Yenilənmə tezliyi SEV1 Xidmətin tam dayanması və ya məlumat sızması 15 dəqiqə Hər 30 dəqiqədən bir SEV2 Əsas funksiyanın ciddi pozulması 30 dəqiqə Hər saatdan bir SEV3 Qismən pozuntu, müvəqqəti həll yolu mövcuddur 4 saat Gündə bir dəfə SEV4 Kiçik və ya vizual qüsur 2 iş günü Ehtiyac olduqda SEV1 insidentləri barədə texniki direktora dərhal məlumat verilir."
+  },
+  {
+    "number": "9.4",
+    "title": "Növbətçilik",
+    "chapter": "9. Mühəndislik prosesləri",
+    "text": "9. Mühəndislik prosesləri > 9.4 Növbətçilik\nNövbətçilik (on-call) növbəsi 1 həftə davam edir. Növbə çərşənbə axşamı günü saat 11:00-da təhvil verilir. Bir mühəndis 6 həftədə bir dəfədən tez-tez növbəyə təyin edilə bilməz. Sınaq müddətində olan əməkdaşlar növbətçilik qrafikinə daxil edilmir. Növbətçilik həftəsi üçün 200 AZN əlavə ödəniş edilir. Bundan başqa, iş vaxtından kənar hər çağırış üçün 40 AZN ödənilir. Gecə saat 00:00 ilə 06:00 arasında çağırış almış növbətçi həmin gün işə 4 saat gec başlaya bilər."
+  },
+  {
+    "number": "9.5",
+    "title": "İnsident sonrası təhlil",
+    "chapter": "9. Mühəndislik prosesləri",
+    "text": "9. Mühəndislik prosesləri > 9.5 İnsident sonrası təhlil\nSEV1 və SEV2 səviyyəli hər bir insident üçün yazılı təhlil (postmortem) hazırlanması məcburidir. Sənəd insident bağlandıqdan sonra 5 iş günü ərzində tamamlanmalıdır. Təhlil günahlandırmadan aparılır: məqsəd günahkar tapmaq deyil, sistemin və prosesin zəif yerini müəyyən etməkdir. Tamamlanmış təhlillər hər cümə axşamı saat 14:00-da keçirilən «İnsident icmalı» görüşündə müzakirə olunur."
+  },
+  {
+    "number": "9.6",
+    "title": "Sprintlər və texniki borc",
+    "chapter": "9. Mühəndislik prosesləri",
+    "text": "9. Mühəndislik prosesləri > 9.6 Sprintlər və texniki borc\nKomandalar 2 həftəlik sprintlərlə işləyir. Sprint planlaması bazar ertəsi günü keçirilir. Hər sprintin tutumunun 20 faizi texniki borcun azaldılmasına ayrılır; bu pay məhsul tapşırıqlarının xeyrinə azaldıla bilməz."
+  },
+  {
+    "number": "10.1",
+    "title": "Qiymətləndirmə dövrləri",
+    "chapter": "10. Performansın qiymətləndirilməsi və karyera",
+    "text": "10. Performansın qiymətləndirilməsi və karyera > 10.1 Qiymətləndirmə dövrləri\nPerformans ildə iki dəfə — mart və sentyabr aylarında qiymətləndirilir. Hər dövrdə əməkdaş özünüqiymətləndirmə yazır, 3-5 həmkarından rəy toplanır və rəhbər yekun rəyini hazırlayır. Nəticələr rəhbərlə təkbətək görüşdə müzakirə olunur."
+  },
+  {
+    "number": "10.2",
+    "title": "Qiymət şkalası",
+    "chapter": "10. Performansın qiymətləndirilməsi və karyera",
+    "text": "10. Performansın qiymətləndirilməsi və karyera > 10.2 Qiymət şkalası\nPerformans beş ballı şkala ilə qiymətləndirilir. Sentyabr dövrünün qiyməti illik bonusun fərdi əmsalını müəyyən edir (bax: 4.3):  1 — Gözləntilərdən xeyli aşağı. Bonus əmsalı 0.  2 — Gözləntilərdən aşağı. Bonus əmsalı 0,5.  3 — Gözləntilərə uyğun. Bonus əmsalı 1,0.  4 — Gözləntilərdən yuxarı. Bonus əmsalı 1,25.  5 — Müstəsna nəticə. Bonus əmsalı 1,5."
+  },
+  {
+    "number": "10.3",
+    "title": "Karyera səviyyələri",
+    "chapter": "10. Performansın qiymətləndirilməsi və karyera",
+    "text": "10. Performansın qiymətləndirilməsi və karyera > 10.3 Karyera səviyyələri\nŞirkətdə altı karyera səviyyəsi var:  L1 — Təcrübəçi  L2 — Kiçik mütəxəssis  L3 — Mütəxəssis  L4 — Baş mütəxəssis  L5 — Aparıcı mütəxəssis və ya komanda rəhbəri  L6 — Baş mühəndis və ya direktor L4 səviyyəsindən sonra karyera iki istiqamətə ayrılır: texniki istiqamət və idarəetmə istiqaməti. Hər iki istiqamətdə əmək haqqı diapazonları eynidir; idarəetməyə keçmək vəzifə artımı üçün şərt deyil."
+  },
+  {
+    "number": "10.4",
+    "title": "Vəzifə artımı",
+    "chapter": "10. Performansın qiymətləndirilməsi və karyera",
+    "text": "10. Performansın qiymətləndirilməsi və karyera > 10.4 Vəzifə artımı\nVəzifə artımına hər qiymətləndirmə dövründə baxılır. Namizəd cari səviyyəsində ən azı 12 ay işləmiş və son iki dövrün hər birində ən azı «4» qiyməti almış olmalıdır. L5 və L6 səviyyələrinə yüksəliş üçün əlavə olaraq Karyera Komitəsinin təsdiqi tələb olunur. Vəzifə artımı ilə bağlı əmək haqqı dəyişikliyi qərardan sonrakı ayın 1-dən qüvvəyə minir."
+  },
+  {
+    "number": "10.5",
+    "title": "Təkmilləşmə planı",
+    "chapter": "10. Performansın qiymətləndirilməsi və karyera",
+    "text": "10. Performansın qiymətləndirilməsi və karyera > 10.5 Təkmilləşmə planı\n«1» qiyməti almış və ya ardıcıl iki dövrdə «2» qiyməti almış əməkdaş üçün Təkmilləşmə Planı tərtib olunur. Plan 60 gün davam edir, konkret və ölçülə bilən hədəflərdən ibarət olur və əməkdaş rəhbəri ilə hər həftə görüşür. Planın sonunda hədəflərə çatılmazsa, əmək müqaviləsinə xitam verilməsi məsələsinə baxıla bilər."
+  },
+  {
+    "number": "10.6",
+    "title": "Təkbətək görüşlər",
+    "chapter": "10. Performansın qiymətləndirilməsi və karyera",
+    "text": "10. Performansın qiymətləndirilməsi və karyera > 10.6 Təkbətək görüşlər\nHər əməkdaş rəhbəri ilə ən azı iki həftədə bir dəfə 30 dəqiqəlik təkbətək görüş keçirir. Görüşün gündəliyini əməkdaş müəyyən edir."
+  },
+  {
+    "number": "11.1",
+    "title": "Fərdi təhsil büdcəsi",
+    "chapter": "11. Təlim və inkişaf",
+    "text": "11. Təlim və inkişaf > 11.1 Fərdi təhsil büdcəsi\nSınaq müddətini başa vurmuş hər əməkdaşa ildə 2000 AZN fərdi təhsil büdcəsi ayrılır. Büdcə kurslara, kitablara, onlayn platforma abunəliklərinə və sertifikat imtahanlarına xərclənə bilər. 500 AZN-dən yuxarı tək xərc üçün rəhbərin əvvəlcədən təsdiqi lazımdır. İstifadə olunmamış büdcə növbəti ilə keçmir."
+  },
+  {
+    "number": "11.2",
+    "title": "Konfranslar",
+    "chapter": "11. Təlim və inkişaf",
+    "text": "11. Təlim və inkişaf > 11.2 Konfranslar\nHər əməkdaş ildə 1 xarici və ya 2 yerli konfransda şirkət hesabına iştirak edə bilər. Konfrans xərcləri fərdi təhsil büdcəsindən ayrı maliyyələşdirilir. Konfransda məruzəçi kimi çıxış edən əməkdaşlara bu məhdudiyyət şamil olunmur. İştirakçı qayıtdıqdan sonra 2 həftə ərzində öyrəndiklərini komandası ilə qısa təqdimat formasında bölüşməlidir."
+  },
+  {
+    "number": "11.3",
+    "title": "Sertifikatlar",
+    "chapter": "11. Təlim və inkişaf",
+    "text": "11. Təlim və inkişaf > 11.3 Sertifikatlar\nUğurla verilmiş peşə sertifikatı imtahanının haqqı tam ödənilir. Uğursuz cəhdin haqqı hər imtahan üzrə yalnız bir dəfə ödənilir. Bulud texnologiyaları üzrə peşəkar səviyyəli sertifikat alan əməkdaşa əlavə olaraq birdəfəlik 300 AZN mükafat verilir."
+  },
+  {
+    "number": "11.4",
+    "title": "Öyrənmə saatı",
+    "chapter": "11. Təlim və inkişaf",
+    "text": "11. Təlim və inkişaf > 11.4 Öyrənmə saatı\nHər cümə günü saat 15:00-dan 17:00-dək olan vaxt Öyrənmə saatıdır. Bu müddətdə əməkdaşlar kurs keçə, kitab oxuya və ya yeni texnologiya ilə təcrübə apara bilər. Öyrənmə saatı iş vaxtı sayılır və bu vaxta tapşırıq və ya görüş təyin edilmir."
+  },
+  {
+    "number": "11.5",
+    "title": "Daxili tədbirlər",
+    "chapter": "11. Təlim və inkişaf",
+    "text": "11. Təlim və inkişaf > 11.5 Daxili tədbirlər\n«Araz Akademiya» çərçivəsində hər ayın son cümə axşamı günü saat 17:00-da əməkdaşlar texniki məruzələrlə çıxış edir. Bundan əlavə, 6 ay davam edən mentorluq proqramı fəaliyyət göstərir: proqrama ildə iki dəfə, fevral və avqust aylarında qeydiyyat aparılır."
+  },
+  {
+    "number": "11.6",
+    "title": "Dil kursları",
+    "chapter": "11. Təlim və inkişaf",
+    "text": "11. Təlim və inkişaf > 11.6 Dil kursları\nBaş ofisdə həftədə iki dəfə pulsuz ingilis dili dərsləri keçirilir. Gəncə ofisinin əməkdaşları dərslərə onlayn qoşula bilər."
+  },
+  {
+    "number": "11.7",
+    "title": "Xərclərin geri qaytarılması öhdəliyi",
+    "chapter": "11. Təlim və inkişaf",
+    "text": "11. Təlim və inkişaf > 11.7 Xərclərin geri qaytarılması öhdəliyi\nDəyəri 1000 AZN-dən çox olan təlim və ya sertifikat proqramını bitirdikdən sonra 6 ay ərzində öz istəyi ilə işdən ayrılan əməkdaş həmin xərcin 50 faizini şirkətə qaytarır. Bu qayda konfranslara və dəyəri 1000 AZN-dən az olan təlimlərə aid deyil."
+  },
+  {
+    "number": "12.1",
+    "title": "Ezamiyyənin təsdiqi",
+    "chapter": "12. Ezamiyyə və xərclər",
+    "text": "12. Ezamiyyə və xərclər > 12.1 Ezamiyyənin təsdiqi\nÖlkədaxili ezamiyyə sorğusu səfərdən ən azı 7 iş günü, xarici ezamiyyə sorğusu isə ən azı 14 iş günü əvvəl Kadr Portalında göndərilməlidir. Sorğunu rəhbər və maliyyə şöbəsi təsdiqləyir."
+  },
+  {
+    "number": "12.2",
+    "title": "Gündəlik xərclər",
+    "chapter": "12. Ezamiyyə və xərclər",
+    "text": "12. Ezamiyyə və xərclər > 12.2 Gündəlik xərclər\nEzamiyyə zamanı yemək və gündəlik kiçik xərclər üçün sabit məbləğ ödənilir və bunun üçün qəbz tələb olunmur:  Ölkə daxilində — gündə 90 AZN.  MDB ölkələrində — gündə 70 avro.  Digər xarici ölkələrdə — gündə 110 avro."
+  },
+  {
+    "number": "12.3",
+    "title": "Uçuş və mehmanxana",
+    "chapter": "12. Ezamiyyə və xərclər",
+    "text": "12. Ezamiyyə və xərclər > 12.3 Uçuş və mehmanxana\nAviabiletlər ekonom sinifdə alınır. Uçuş müddəti 6 saatdan çox olduqda premium ekonom sinifdə bilet almağa icazə verilir. Mehmanxana üçün gecəlik limit ölkə daxilində 150 AZN, xaricdə isə 180 avrodur. Bilet və mehmanxana sifarişləri şirkətin Səfər Masası vasitəsilə edilir; müstəqil alınmış biletlərin dəyəri yalnız Səfər Masasının əvvəlcədən razılığı olduqda ödənilir."
+  },
+  {
+    "number": "12.4",
+    "title": "Xərc hesabatı",
+    "chapter": "12. Ezamiyyə və xərclər",
+    "text": "12. Ezamiyyə və xərclər > 12.4 Xərc hesabatı\nXərc hesabatı qəbzlərlə birlikdə səfərdən qayıtdıqdan sonra 10 iş günü ərzində təqdim olunmalıdır. Təsdiqlənmiş məbləğ növbəti əmək haqqı ödənişi ilə birlikdə köçürülür. Səfərdən 30 gündən gec təqdim olunmuş hesabatlar üzrə ödəniş edilmir."
+  },
+  {
+    "number": "12.5",
+    "title": "Korporativ kart",
+    "chapter": "12. Ezamiyyə və xərclər",
+    "text": "12. Ezamiyyə və xərclər > 12.5 Korporativ kart\nL4 və daha yuxarı səviyyəli əməkdaşlara, eləcə də tez-tez ezamiyyətə gedən əməkdaşlara korporativ bank kartı verilə bilər. Korporativ kartla şəxsi xərc etmək qadağandır."
+  },
+  {
+    "number": "12.6",
+    "title": "Müştəri qonaqlığı",
+    "chapter": "12. Ezamiyyə və xərclər",
+    "text": "12. Ezamiyyə və xərclər > 12.6 Müştəri qonaqlığı\nMüştərilərlə işgüzar yemək xərcləri adambaşına 60 AZN həddində ödənilir. Spirtli içkilərin dəyəri kompensasiya olunmur."
+  },
+  {
+    "number": "12.7",
+    "title": "İstirahət günlərinin kompensasiyası",
+    "chapter": "12. Ezamiyyə və xərclər",
+    "text": "12. Ezamiyyə və xərclər > 12.7 İstirahət günlərinin kompensasiyası\nEzamiyyə səbəbi ilə səfərdə keçən hər şənbə və ya bazar günü üçün 1 əlavə istirahət günü verilir. Bu gün səfərdən qayıtdıqdan sonra 30 gün ərzində istifadə olunmalıdır."
+  },
+  {
+    "number": "13.1",
+    "title": "Qarşılıqlı hörmət",
+    "chapter": "13. Davranış qaydaları və etika",
+    "text": "13. Davranış qaydaları və etika > 13.1 Qarşılıqlı hörmət\nŞirkətdə hər bir əməkdaş, müştəri və tərəfdaşla hörmətlə davranmaq gözlənilir. Cinsə, yaşa, mənşəyə, dinə və ya digər şəxsi xüsusiyyətlərə görə ayrı-seçkiliyə, təhqirə və təzyiqə heç bir halda yol verilmir."
+  },
+  {
+    "number": "13.2",
+    "title": "Hədiyyələr",
+    "chapter": "13. Davranış qaydaları və etika",
+    "text": "13. Davranış qaydaları və etika > 13.2 Hədiyyələr\nMüştərilərdən, təchizatçılardan və tərəfdaşlardan dəyəri 100 AZN-dən çox olan hədiyyə qəbul etmək olmaz. Dəyəri 50 AZN ilə 100 AZN arasında olan hədiyyələr qəbul edilə bilər, lakin 5 iş günü ərzində Etika Reyestrində qeydə alınmalıdır. Dövlət qurumlarının nümayəndələrinə şirkət adından hədiyyə vermək qadağandır."
+  },
+  {
+    "number": "13.3",
+    "title": "Maraqların toqquşması",
+    "chapter": "13. Davranış qaydaları və etika",
+    "text": "13. Davranış qaydaları və etika > 13.3 Maraqların toqquşması\nKənarda ödənişli işlə məşğul olmaq üçün rəhbərin və kadrlar şöbəsinin yazılı razılığı lazımdır. Rəqib şirkətlər üçün işləmək qadağandır. Yaxın qohumlar bir-birinin birbaşa tabeliyində işləyə bilməz. Şirkətin müştərisi və ya təchizatçısı olan təşkilatda 5 faizdən çox payı olan əməkdaş bu barədə kadrlar şöbəsinə məlumat verməlidir."
+  },
+  {
+    "number": "13.4",
+    "title": "Etimad xətti",
+    "chapter": "13. Davranış qaydaları və etika",
+    "text": "13. Davranış qaydaları və etika > 13.4 Etimad xətti\nQaydaların pozulması ilə bağlı narahatlığınızı rəhbərinizə, kadrlar şöbəsinə və ya Etimad xəttinə bildirə bilərsiniz. Etimad xəttinə etimad@arazbulud.example ünvanı vasitəsilə, istəsəniz anonim şəkildə müraciət etmək olar. Müraciətə ilkin cavab 3 iş günü ərzində verilir, araşdırma isə 15 iş günü ərzində başa çatdırılır. Vicdanla müraciət etmiş əməkdaşa qarşı hər hansı təqib və ya qisas qadağandır."
+  },
+  {
+    "number": "13.5",
+    "title": "Sosial media və ictimai çıxışlar",
+    "chapter": "13. Davranış qaydaları və etika",
+    "text": "13. Davranış qaydaları və etika > 13.5 Sosial media və ictimai çıxışlar\nŞirkət adından rəsmi açıqlama yalnız Kommunikasiya komandası tərəfindən verilir. Şəxsi sosial media hesablarınızda şirkətdə işlədiyinizi qeyd edə bilərsiniz, lakin məxfi məlumat, müştəri adları və hələ elan olunmamış məhsullar barədə paylaşım etmək olmaz. Jurnalistlərdən gələn sorğular Kommunikasiya komandasına yönləndirilməlidir."
+  },
+  {
+    "number": "13.6",
+    "title": "Əqli mülkiyyət və açıq mənbə",
+    "chapter": "13. Davranış qaydaları və etika",
+    "text": "13. Davranış qaydaları və etika > 13.6 Əqli mülkiyyət və açıq mənbə\nİş vəzifələrinin icrası zamanı yaradılmış kod, sənəd və dizaynlar şirkətə məxsusdur. İş vaxtı açıq mənbəli layihələrə töhfə vermək üçün Açıq Mənbə Komitəsinə sorğu göndərilir; komitə 5 iş günü ərzində cavab verir. İş vaxtından kənar, şirkət avadanlığı və məlumatı istifadə olunmadan yaradılmış şəxsi layihələr əməkdaşın özünə məxsusdur."
+  },
+  {
+    "number": "13.7",
+    "title": "İntizam tədbirləri",
+    "chapter": "13. Davranış qaydaları və etika",
+    "text": "13. Davranış qaydaları və etika > 13.7 İntizam tədbirləri\nQaydaların pozulmasına görə pozuntunun ağırlığından asılı olaraq şifahi xəbərdarlıq, yazılı töhmət və ya əmək müqaviləsinə xitam verilməsi tətbiq oluna bilər. Qərar verilməzdən əvvəl əməkdaşın izahatı mütləq dinlənilir."
+  },
+  {
+    "number": "14.1",
+    "title": "Xəbərdarlıq müddəti",
+    "chapter": "14. İşdən ayrılma",
+    "text": "14. İşdən ayrılma > 14.1 Xəbərdarlıq müddəti\nÖz istəyi ilə işdən ayrılmaq istəyən əməkdaş ən azı 1 ay əvvəl rəhbərinə və kadrlar şöbəsinə yazılı ərizə təqdim etməlidir. Sınaq müddətində bu müddət 3 gündür (bax: 2.2). Tərəflərin qarşılıqlı razılığı ilə xəbərdarlıq müddəti qısaldıla bilər."
+  },
+  {
+    "number": "14.2",
+    "title": "İşlərin təhvil verilməsi",
+    "chapter": "14. İşdən ayrılma",
+    "text": "14. İşdən ayrılma > 14.2 İşlərin təhvil verilməsi\nƏrizə təqdim olunduqdan sonra 5 iş günü ərzində əməkdaş rəhbəri ilə birlikdə təhvil-təslim planı hazırlayır. Planda davam edən tapşırıqlar, sənədləşdirilməli biliklər və işi qəbul edəcək həmkarlar göstərilir."
+  },
+  {
+    "number": "14.3",
+    "title": "Avadanlığın qaytarılması",
+    "chapter": "14. İşdən ayrılma",
+    "text": "14. İşdən ayrılma > 14.3 Avadanlığın qaytarılması\nNoutbuk, giriş kartı, fiziki təhlükəsizlik açarı və digər şirkət avadanlığı son iş günü saat 17:00-a qədər İT şöbəsinə təhvil verilməlidir. Tam uzaqdan işləyən əməkdaşlar avadanlığı son iş günündən sonra 3 iş günü ərzində kuryer vasitəsilə göndərir; kuryer xərcini şirkət ödəyir. Bütün sistemlərə giriş son iş günü saat 18:00-da bağlanır."
+  },
+  {
+    "number": "14.4",
+    "title": "Yekun hesablaşma",
+    "chapter": "14. İşdən ayrılma",
+    "text": "14. İşdən ayrılma > 14.4 Yekun hesablaşma\nYekun hesablaşma son iş günü aparılır. İstifadə olunmamış əsas məzuniyyət günlərinə görə kompensasiya ödənilir. İllik bonus yalnız 1 dekabr tarixində şirkətdə işləyən əməkdaşlara ödənilir (bax: 4.3); bu tarixdən əvvəl ayrılan əməkdaşa bonus hesablanmır. Təlim xərcləri ilə bağlı öhdəlik olduqda (bax: 11.7) məbləğ yekun hesablaşmadan tutulur."
+  },
+  {
+    "number": "14.5",
+    "title": "Çıxış müsahibəsi",
+    "chapter": "14. İşdən ayrılma",
+    "text": "14. İşdən ayrılma > 14.5 Çıxış müsahibəsi\nSon iş həftəsində kadrlar şöbəsi əməkdaşı çıxış müsahibəsinə dəvət edir. Müsahibə könüllüdür. Burada deyilənlər ümumiləşdirilmiş şəkildə rəhbərliyə çatdırılır."
+  },
+  {
+    "number": "14.6",
+    "title": "Geri qayıdış",
+    "chapter": "14. İşdən ayrılma",
+    "text": "14. İşdən ayrılma > 14.6 Geri qayıdış\nŞirkətdən ayrıldıqdan sonra 12 ay ərzində yenidən işə qəbul olunan keçmiş əməkdaşın əvvəlki iş stajı bərpa olunur. Bu, məzuniyyət günlərinin hesablanmasında nəzərə alınır (bax: 5.1). Belə əməkdaşlar üçün sınaq müddəti tətbiq edilmir."
+  },
+  {
+    "number": "14.7",
+    "title": "Ayrıldıqdan sonrakı öhdəliklər",
+    "chapter": "14. İşdən ayrılma",
+    "text": "14. İşdən ayrılma > 14.7 Ayrıldıqdan sonrakı öhdəliklər\nMəxfilik öhdəliyi əmək müqaviləsinə xitam verildikdən sonra 3 il qüvvədə qalır. Keçmiş əməkdaşın sorğusu əsasında kadrlar şöbəsi 5 iş günü ərzində iş yerindən arayış və ya tövsiyə məktubu hazırlayır."
+  },
+  {
+    "number": "15.1",
+    "title": "Kimə müraciət etməli",
+    "chapter": "15. Əlaqə və dəstək",
+    "text": "15. Əlaqə və dəstək > 15.1 Kimə müraciət etməli\nSuallarınız üçün aşağıdakı kanallardan istifadə edin:  Kadrlar şöbəsi — kadr@arazbulud.example və ya Slack-də #kadr-suallar kanalı. Cavab müddəti 2 iş günüdür.  İT dəstək xidməti — #it-komek kanalı və ya 1100 daxili nömrəsi (bax: 7.6).  İT təhlükəsizlik komandası — security@arazbulud.example. Təcili hallar üçün 1199 daxili nömrəsi gecə-gündüz işləyir.  Maliyyə şöbəsi (xərc hesabatları və ezamiyyə) — xerc@arazbulud.example.  Səfər Masası — sefer@arazbulud.example.  Etimad xətti — etimad@arazbulud.example (bax: 13.4)."
+  },
+  {
+    "number": "15.2",
+    "title": "Kadr Portalı",
+    "chapter": "15. Əlaqə və dəstək",
+    "text": "15. Əlaqə və dəstək > 15.2 Kadr Portalı\nKadr Portalı əməkdaşların əsas özünəxidmət sistemidir. Portalda məzuniyyət müraciəti göndərmək, əmək haqqı vərəqəsinə baxmaq, qəbz yükləmək, dayanacaq yeri sifariş etmək, ezamiyyə sorğusu yaratmaq və səviyyələr üzrə əmək haqqı diapazonları ilə tanış olmaq mümkündür. Portala giriş yalnız şirkət şəbəkəsindən və ya VPN vasitəsilə açıqdır."
+  },
+  {
+    "number": "15.3",
+    "title": "Bələdçiyə dəyişiklik təklifi",
+    "chapter": "15. Əlaqə və dəstək",
+    "text": "15. Əlaqə və dəstək > 15.3 Bələdçiyə dəyişiklik təklifi\nBu bələdçidə səhv, köhnəlmiş məlumat və ya aydın olmayan bənd görsəniz, #kadr-suallar kanalında yazın. Təkliflər toplanır və növbəti yenilənmə zamanı nəzərə alınır (bax: 1.5)."
+  },
+  {
+    "number": "15.4",
+    "title": "Fövqəladə hallar",
+    "chapter": "15. Əlaqə və dəstək",
+    "text": "15. Əlaqə və dəstək > 15.4 Fövqəladə hallar\nYanğın siqnalı səsləndikdə lifdən istifadə etmədən pilləkənlə binanı tərk edin. Toplanma yeri binanın qarşısındakı parkdır. Hər mərtəbədə iki mərtəbə məsulu var; onlar narıncı jiletlə seçilir və təxliyəyə rəhbərlik edir. İlk yardım qutuları hər mərtəbənin mətbəxində yerləşir. Təxliyə məşqi ildə iki dəfə — may və noyabr aylarında keçirilir."
+  },
+  {
+    "number": "15.5",
+    "title": "Qısaltmalar və terminlər",
+    "chapter": "15. Əlaqə və dəstək",
+    "text": "15. Əlaqə və dəstək > 15.5 Qısaltmalar və terminlər\n L1–L6 — karyera səviyyələri (bax: 10.3).  SEV1–SEV4 — insident səviyyələri (bax: 9.3).  Növbətçilik (on-call) — iş vaxtından kənar insidentlərə cavab vermək üçün növbə.  Postmortem — insident sonrası yazılı təhlil.  VPN — şirkət şəbəkəsinə təhlükəsiz qoşulma xidməti.  Lövbər günü — komandanın özünün seçdiyi ikinci ofis günü (bax: 3.2).  Bələdçi yoldaş — yeni əməkdaşa ilk üç ayda kömək edən həmkar (bax: 2.1)."
+  }
+]

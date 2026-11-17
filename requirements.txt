@@ -1,0 +1,5 @@
+anthropic
+python-dotenv
+google-genai
+numpy
+pypdf
