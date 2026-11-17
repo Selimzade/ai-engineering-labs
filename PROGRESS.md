@@ -20,6 +20,7 @@
 **Harada qaldıq:** Lab 2, Həftə 4 — chunking hazırdır, növbəti addım **Chroma**.
 
 **Növbəti addım:**
+0. ⏸ **Cavabsız mentor sualı (buradan başla):** `chunk.py`-da mətni niyə sabit ölçüdə (məs. 500 simvol) yox, bəndlər üzrə böldün? RAG üçün bir üstünlük və bir risk.
 1. Day-01 və Day-02 üçün qısa `NOTES.md` (öz sözlərinlə nə öyrəndin)
 2. `day-03-chroma/`: chunks.json → Gemini embedding → Chroma kolleksiyası → sorğu
 
