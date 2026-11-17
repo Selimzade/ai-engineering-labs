@@ -15,7 +15,7 @@
 - Bir ümumi `.env` (ANTHROPIC_API_KEY, GEMINI_API_KEY), `.gitignore`, `requirements.txt`, kökdə `.venv` (Python 3.13).
 - `chunk.py` yeni yerdə yoxlanıldı → 94 parça.
 - Roadmap yeniləndi (~21 həftə): Git indidən; mini golden set Həftə 5-də; structured output və framework müqayisəsi Mərhələ 4-də; tracing (Langfuse) Mərhələ 5-də; işə hazırlıq Mərhələ 6-da; Lab 2-dən `claude-haiku-5-5`.
-- Git repo quruldu (`main`), ilk commit edildi, `README.md` əlavə olundu. GitHub-a hələ push edilməyib.
+- Git repo quruldu (`main`), ilk commit edildi, `README.md` əlavə olundu. GitHub: https://github.com/Selimzade/ai-engineering-labs (push edildi).
 
 **Harada qaldıq:** Lab 2, Həftə 4 — chunking hazırdır, növbəti addım **Chroma**.
 
